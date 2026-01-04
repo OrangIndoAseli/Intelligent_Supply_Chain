@@ -1,0 +1,4 @@
+Category,Forecast_Month,Predicted_Demand,Model_RMSE,Safety_Stock_Buffer,Recommended_Order
+Office Supplies,2018-01,14986.78,7337.23,12106.42,27093.2
+Technology,2018-01,12344.65,3515.96,5801.34,18145.99
+Furniture,2018-01,8801.51,3243.91,5352.45,14153.96
